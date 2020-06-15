@@ -1,1 +1,1 @@
-# djangoieee Day1 (master remote)
+# djangoieee Day1 (master branch)
